@@ -4,11 +4,9 @@
         <a href="https://x.com/XDeepDev">
             <img src="./assets/icons8-x.svg" alt="Twitter" />
         </a>
-        &nbsp; &nbsp; &nbsp;
         <a href="https://www.linkedin.com/in/ricardomelgarejo/">
             <img src="./assets/icons8-linkedin.svg" alt="LinkedIn" />
         </a>
-        &nbsp; &nbsp; &nbsp;
         <a href="https://facebook.com/XDeepDev">
             <img src="./assets/icons8-facebook.svg" alt="Facebook" />
         </a>
