@@ -74,11 +74,4 @@
     <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
     <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
-
----
-
-<div align="center">
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XDeepDev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-    </p>
 </div>
