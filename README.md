@@ -2,7 +2,7 @@
     <h2>Software Engineer | Full Stack Web & Mobile Developer</h2>
     <p>
         <a href="https://x.com/XDeepDev">
-            <img src="./assets/icons8-twitterx.svg" alt="Twitter" />
+            <img src="./assets/icons8-x.svg" alt="Twitter" />
         </a>
         &nbsp; &nbsp; &nbsp;
         <a href="https://www.linkedin.com/in/ricardomelgarejo/">
